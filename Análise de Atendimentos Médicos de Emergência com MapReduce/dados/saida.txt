@@ -1,0 +1,636 @@
+CEAR Camiña|844
+CEAR Colchane|1403
+CEAR El Tabo|17015
+CEAR Pica|5056
+CEAR Rocas de Santo Domingo|11646
+Centro Comunitario de Salud Familiar Villa Aytue|1199
+Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez|2194
+Centro de Salud Familiar Juan Pablo II                                                              |10068
+Centro de Salud Familiar Río Negro Hornopirén                                                       |11621
+Centro de Salud Familiar San Antonio                                                                |26134
+Centro de Salud Familiar San Juan Dios|1344
+Centro Oncológico del Norte (CON)|25800
+Complejo Asistencial  Dr. Víctor Ríos Ruiz (Los Angeles)                                            |116358
+Complejo Asistencial Padre las Casas|38237
+Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)                                    |152119
+Complejo Hospitalario San José (Santiago, Independencia)                                            |48666
+Hospital 21 de Mayo (Taltal)                                                                        |26129
+Hospital Adalberto Steeger (Talagante)|34940
+Hospital Adriana Cousiño (Quintero)                                                                 |38413
+Hospital Barros Luco Trudeau (Santiago, San Miguel)                                                 |72959
+Hospital Base de Osorno                                                                             |83269
+Hospital Carlos Van Buren (Valparaíso)                                                              |93602
+Hospital Clínico  Herminda Martín (Chillán)                                                         |85152
+Hospital Clínico de Niños Dr. Roberto del Río (Santiago, Independencia)                             |78408
+Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada           |109697
+Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza              |54043
+Hospital Clínico Regional (Valdivia)                                                                |55289
+Hospital Clínico Regional Dr. Guillermo Grant Benavente (Concepción)                                |98961
+Hospital Clínico San Borja Arriarán|44133
+Hospital Claudio Vicuña ( San Antonio)                                                              |56019
+Hospital Clorinda Avello (Santa Juana)                                                              |16655
+Hospital Comunitario Cristina Calderón de Puerto Williams|3334
+Hospital Comunitario de Salud Familiar de Bulnes                                                    |51207
+Hospital Comunitario de Salud Familiar de El Carmen                                                 |24257
+Hospital Comunitario de Salud Familiar de Quirihue                                                  |17282
+Hospital Comunitario de Salud Familiar Dr. Eduardo Contreras Trabucco de Coelemu                    |27388
+Hospital Comunitario de Salud Familiar Pedro Morales Campos (Yungay)                                |31827
+Hospital de Achao                                                                                   |11691
+Hospital de Ancud                                                                                   |24011
+Hospital de Calbuco                                                                                 |43526
+Hospital de Carahue                                                                                 |31083
+Hospital de Castro                                                                                  |32495
+Hospital de Chaitén|6309
+Hospital de Coínco                                                                                  |14482
+Hospital de Collipulli                                                                              |21639
+Hospital de Constitución                                                                            |22038
+Hospital de Contulmo                                                                                |10228
+Hospital de Corral                                                                                  |11726
+Hospital de Curacaví|60067
+Hospital de Curepto                                                                                 |10145
+Hospital de Florida                                                                                 |19833
+Hospital de Fresia                                                                                  |17217
+Hospital de Frutillar                                                                               |18394
+Hospital de Futaleufú                                                                               |7539
+Hospital de Galvarino                                                                               |23710
+Hospital de Gorbea                                                                                  |18834
+Hospital de Hualañé                                                                                 |12809
+Hospital de Intercultura (Nueva Imperial)                                                           |32496
+Hospital de Laja                                                                                    |28021
+Hospital de Lanco                                                                                   |23198
+Hospital de Lebu                                                                                    |37186
+Hospital de Licantén                                                                                |8523
+Hospital de Litueche                                                                                |12569
+Hospital de Llanquihue                                                                              |24213
+Hospital de Lolol                                                                                   |11501
+Hospital de Loncoche                                                                                |25249
+Hospital de Lonquimay                                                                               |9439
+Hospital de Los Lagos                                                                               |24463
+Hospital de Lota                                                                                    |33393
+Hospital de Marchigüe                                                                               |12327
+Hospital de Maullín                                                                                 |12324
+Hospital de Mejillones                                                                              |26049
+Hospital de Molina                                                                                  |39194
+Hospital de Mulchén                                                                                 |67071
+Hospital de Nacimiento                                                                              |33967
+Hospital de Nancagua                                                                                |25715
+Hospital de Niños Dr. Luis Calvo Mackenna (Santiago, Providencia)                                   |50378
+Hospital de Paillaco                                                                                |36318
+Hospital de Palena                                                                                  |2930
+Hospital de Peñaflor|49635
+Hospital de Petorca                                                                                 |14073
+Hospital de Pichidegua                                                                              |25003
+Hospital de Pichilemu                                                                               |24011
+Hospital de Pitrufquén                                                                              |30069
+Hospital de Puerto Aisén                                                                            |34881
+Hospital de Puerto Montt                                                                            |63270
+Hospital de Puerto Octay                                                                            |14754
+Hospital de Purén                                                                                   |15644
+Hospital de Purranque Dr. Juan Hepp Dubiau|26340
+Hospital de Queilén                                                                                 |7687
+Hospital de Quellón                                                                                 |28011
+Hospital de Quilpué                                                                                 |51804
+Hospital de Río Bueno                                                                               |32189
+Hospital de Río Negro                                                                               |28697
+Hospital de Salamanca                                                                               |30636
+Hospital de San Camilo (San Felipe)                                                                 |64364
+Hospital de San Carlos|66090
+Hospital de Santa Bárbara                                                                           |29915
+Hospital de Santa Cruz                                                                              |44568
+Hospital de Teno                                                                                    |24480
+Hospital de Til Til                                                                                 |23806
+Hospital de Toltén                                                                                  |14958
+Hospital de Tomé                                                                                    |36197
+Hospital de Urgencia Asistencia Pública Dr. Alejandro del Río|79209
+Hospital de Vilcún                                                                                  |24205
+Hospital de Villarrica                                                                              |42181
+Hospital de Yumbel                                                                                  |34546
+Hospital Del Salvador (Peumo)                                                                       |22689
+Hospital Del Salvador (Santiago, Providencia)                                                       |40050
+Hospital Dr. Abel Fuentealba Lagos (San Javier)                                                     |43469
+Hospital Dr. Abraham Godoy Peña de Lautaro|23134
+Hospital Dr. Antonio Tirado Lanas (Ovalle)                                                          |51642
+Hospital Dr. Arturo Hillerns Larrañaga (Saavedra)                                                   |16992
+Hospital Dr. Augusto Essmann Burgos ( Natales)                                                      |33813
+Hospital Dr. Benjamín Pedreros (Chanco)                                                             |21510
+Hospital Dr. César Garavagno Burotto (Talca)                                                        |79880
+Hospital Dr. Carlos Cisternas (Calama)                                                              |55146
+Hospital Dr. Dino Stagno M.(Traiguén)                                                               |25448
+Hospital Dr. Eduardo González Galeno (Cunco)                                                        |27218
+Hospital Dr. Ernesto Torres Galdames|82256
+Hospital Dr. Exequiel González Cortés (Santiago, San Miguel)                                        |90832
+Hospital Dr. Félix Bulnes Cerda (Santiago, Quinta Normal)                                           |135354
+Hospital Dr. Florencio Vargas (Diego de Almagro)                                                    |16850
+Hospital Dr. Gustavo Fricke (Viña del Mar)                                                          |88145
+Hospital Dr. Hernán Henríquez Aravena (Temuco)                                                      |109817
+Hospital Dr. Humberto Elorza Cortéz (Illapel)                                                       |23356
+Hospital Dr. Jerónimo Méndez Arancibia (Chañaral)                                                   |19572
+Hospital Dr. Jorge Ibar (Cisnes)                                                                    |9035
+Hospital Dr. José Arraño (Andacollo)                                                                |12112
+Hospital Dr. Juan Noé Crevanni (Arica)                                                              |99891
+Hospital Dr. Lautaro Navarro Avaria (Punta Arenas)                                                  |87211
+Hospital Dr. Leonardo Guzmán (Antofagasta)                                                          |49036
+Hospital Dr. Leopoldo Ortega R. (Chile Chico)                                                       |7214
+Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)                                                    |31164
+Hospital Dr. Manuel Magalhaes Medling (Huasco)                                                      |16290
+Hospital Dr. Marco Antonio Chamorro ( Porvenir)                                                     |10617
+Hospital Dr. Marcos Macuada (Tocopilla)                                                             |26181
+Hospital Dr. Mario Sánchez Vergara (La Calera)                                                      |24579
+Hospital Dr. Mauricio Heyermann (Angol)                                                             |45105
+Hospital Dr. Oscar Hernández E.(Curacautín)                                                         |13491
+Hospital Dr. Ricardo Figueroa González (Cañete)                                                     |39678
+Hospital Dr. Ricardo Valenzuela Sáez (Rengo)                                                        |46276
+Hospital Dr. Roberto Muñoz Urrutia de Huépil                                                        |21128
+Hospital Dr. Víctor Hugo Moll (Cabildo)                                                             |19326
+Hospital El Pino (Santiago, San Bernardo)                                                           |49643
+Hospital Futa Sruka Lawenche Kunko Mapu Mo|3576
+Hospital Hanga Roa (Isla De Pascua)                                                                 |15782
+Hospital Juan Morey (La Unión)                                                                      |28761
+Hospital Juana Ross de Edwards (Peñablanca, Villa Alemana)                                          |30462
+Hospital Las Higueras (Talcahuano)                                                                  |103012
+Hospital Lord Cochrane                                                                              |6606
+Hospital Makewe (D)|4056
+Hospital Mercedes (Chimbarongo)                                                                     |28994
+Hospital Padre Alberto Hurtado (San Ramón)                                                          |107083
+Hospital Padre Bernabé de Lucerna (Panguipulli)                                                     |27132
+Hospital Parroquial (Santiago, San Bernardo)                                                        |21140
+Hospital Penco - Lirquén                                                                            |37655
+Hospital Presidente Carlos Ibáñez del Campo (Linares)                                               |46239
+Hospital Provincial  Dr. Rafael Avaría (Curanilahue)                                                |52422
+Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar)                            |49419
+Hospital Psiquiátrico Dr. Philippe Pinel (Putaendo)                                                 |5781
+Hospital Pu Mulen Quilacahuín|1717
+Hospital Regional (Coihaique)                                                                       |70368
+Hospital Regional de Rancagua|96483
+Hospital San Agustín (La Ligua)                                                                     |24233
+Hospital San Antonio (Putaendo)                                                                     |20654
+Hospital San Francisco (Llaillay)                                                                   |36334
+Hospital San Francisco de Pucón (D)|38635
+Hospital San José (Casablanca)                                                                      |30698
+Hospital San José (Coronel)                                                                         |79809
+Hospital San José (Melipilla)                                                                       |43679
+Hospital San José (Parral)                                                                          |42237
+Hospital San José (Victoria)                                                                        |28334
+Hospital San José de Maipo                                                                          |23024
+Hospital San José del Carmen (Copiapó)                                                              |72379
+Hospital San Juan de Dios (Cauquenes)                                                               |22211
+Hospital San Juan de Dios (Combarbalá)                                                              |11197
+Hospital San Juan de Dios (Curicó)                                                                  |59906
+Hospital San Juan de Dios (La Serena)                                                               |34559
+Hospital San Juan de Dios (Los Andes)                                                               |67023
+Hospital San Juan de Dios (San Fernando)                                                            |74983
+Hospital San Juan de Dios (Santiago, Santiago)                                                      |39249
+Hospital San Juan de Dios (Vicuña)                                                                  |22306
+Hospital San Luis (Buin)                                                                            |45394
+Hospital San Martín (Quillota)                                                                      |45894
+Hospital San Pablo (Coquimbo)                                                                       |38418
+Hospital San Pedro (Los Vilos)                                                                      |29965
+Hospital San Vicente (Arauco)                                                                       |48328
+Hospital San Vicente de Tagua-Tagua                                                                 |25151
+Hospital Santa Elisa (Mariquina)                                                                    |31142
+Hospital Santa Filomena (Graneros)                                                                  |33085
+Hospital Santo Tomás (Limache)                                                                      |36176
+Instituto Psiquiátrico  Dr. José Horwitz Barak (Santiago, Recoleta)                                 |20832
+Instituto Traumatológico Dr. Teodoro Gebauer                                                        |41702
+SAPU-Dr. Federico Puga                                                                              |15217
+SAPU-Hualqui                                                                                        |47488
+SAPU-José Durán Trujillo                                                                            |30671
+SAPU-Lagunillas                                                                                     |51865
+SAPU-Leonera                                                                                        |32022
+SAPU-Lorenzo Arenas                                                                                 |22584
+SAPU-Los Volcanes|14644
+SAPU-Santa Rosa de Chena                                                                            |62475
+SAPU-Santa Sabina                                                                                   |23412
+SAPU-Ultraestación                                                                                  |13802
+SAPU 18 de Septiembre|11964
+SAPU Abel Zapata|11378
+SAPU Aguilucho|14907
+SAPU Alberto Bachelet Martínez                                                                      |23424
+SAPU Alcalde Leocán Portus|30816
+SAPU Algarrobo|27664
+SAPU Amanda Benavente|61448
+SAPU Amanecer|14502
+SAPU Aníbal Ariztía|51222
+SAPU Angachilla|13682
+SAPU Angelmó|19873
+SAPU Antonio Rendic|19842
+SAPU Antonio Varas|23511
+SAPU Artificio|14377
+SAPU Aviador Acevedo|24056
+SAPU Baquedano|13586
+SAPU Barrancas|25242
+SAPU Belarmina Paredes|16898
+SAPU Bellavista|23459
+SAPU Bernardo Leighton|77264
+SAPU Buin|32649
+SAPU Cóndores de Chile|23805
+SAPU Canela|7957
+SAPU Cardenal Caro                                                              |9281
+SAPU Cardenal Silva Henríquez de Puente Alto|54622
+SAPU CARLOS IBAÑEZ|12394
+SAPU Carlos Trupp|48368
+SAPU Carmela Carvajal|27061
+SAPU Cartagena|35933
+SAPU CATAPILCO|3570
+SAPU Central Oriente de Antofagasta|17605
+SAPU Centro de Urgencia Ñuñoa|44695
+SAPU Centro Sur de Antofagasta|12679
+SAPU Centro|17429
+SAPU CESFAM O"HIGGINS|9387
+SAPU Cirujano Aguirre|20183
+SAPU Cirujano Guzmán                                                                                |14703
+SAPU Cirujano Videla|42451
+SAPU Clara Estrella|25792
+SAPU Confraternidad|21133
+SAPU Consultorio Nº1|21498
+SAPU Corvallis|18673
+SAPU Cristo Vive|8757
+SAPU Curicó Centro|28410
+SAPU Diputado Manuel Bustos Huerta|27672
+SAPU Dos de Septiembre|18294
+SAPU Dr. Adalberto Steeger|18783
+SAPU DR. AGUSTIN CRUZ MELO|44280
+SAPU Dr. Alberto Allende Jones|21835
+SAPU Dr. Alejandro del Río|67250
+SAPU Dr. Alejandro Gutiérrez|11806
+SAPU Dr. Arturo Albertz|15940
+SAPU Dr. Avendaño|14304
+SAPU Dr. Bernardo Mellibovsky|18786
+SAPU Dr. Carlos Lorca|20645
+SAPU Dr. Edelberto Elgueta|44939
+SAPU Dr. Fernando Maffioletti|28270
+SAPU Dr. Fernando Monckeberg|35425
+SAPU Dr. Francisco Boris Soler|30694
+SAPU Dr. Gustavo Molina|58915
+SAPU Dr. Héctor Reyno Gutiérrez|33326
+SAPU Dr. Iván Insunza|34404
+SAPU Dr. Jose Manuel Balmaceda|20417
+SAPU Dr. Juan Lozic Perez|6505
+SAPU Dr. Marcelo Lopetegui Adams|32660
+SAPU Dr. Mateo Bencur|15836
+SAPU Dr. Norman Voulliéme|28766
+SAPU Dr. Pedro Jáuregui|28291
+SAPU Dr. Sergio Aguilar|15515
+SAPU Dra. Ana María Juricic|50319
+SAPU Dra. Mariela Salgado|23261
+SAPU Edgardo Enriquez Froedden|26761
+SAPU Eduardo de Geyter|12297
+SAPU Eduardo Frei Montalva|63831
+SAPU El Belloto|23976
+SAPU El Boro|17707
+SAPU El Monte|23329
+SAPU El Palomar|13689
+SAPU El Quisco|10830
+SAPU El Roble|25758
+SAPU El Sauce|25462
+SAPU El Tabo|6106
+SAPU Eleuterio Ramírez|15810
+SAPU Entre Lagos|28978
+SAPU Esmeralda|69832
+SAPU Fray Jorge|20904
+SAPU Freire|12256
+SAPU Frutillar|15909
+SAPU Gómez Carreño|27310
+SAPU Garín|32655
+SAPU Gil de Castro                                                                                  |19863
+SAPU Granja Sur|27168
+SAPU Huamachuco|27307
+SAPU Huara|2107
+SAPU Huequén|13766
+SAPU Ignacio Caroca|12811
+SAPU Ignacio Domeyko|17334
+SAPU Isabel Riquelme|10207
+SAPU Isla de Maipo|29057
+SAPU Joan Crawford Astudillo|19096
+SAPU Jorge Jordán Domic|15965
+SAPU José Alvo|21469
+SAPU José Bauzá Frau|57020
+SAPU José Dionisio Astaburuaga|22097
+SAPU Juan Antonio Rios|25835
+SAPU Juan Pablo II                                                                                  |20236
+SAPU Juan Pablo II de Antofagasta|43418
+SAPU Juan Pablo II|14718
+SAPU Juan Soto Fernández                                                        |16496
+SAPU Julio Contardo Urzúa|22748
+SAPU Karol Wojtyla                                                                                  |56481
+SAPU La Faena|28368
+SAPU La Feria|21138
+SAPU La Floresta|26314
+SAPU La Florida                                                                 |20635
+SAPU La Granja|71788
+SAPU La Reina|37132
+SAPU Las Ánimas                                                                                     |16361
+SAPU Las Compañías|14381
+SAPU Las Torres|43394
+SAPU Libertadores|17970
+SAPU Lila Cortés|22629
+SAPU Lo Barnechea|42936
+SAPU Lo Franco|23413
+SAPU Lo Hermida|37135
+SAPU Loma Colorada|26770
+SAPU Los Castaños|34346
+SAPU LOS MOLLES|564
+SAPU Los Muermos|28499
+SAPU Los Quillayes|54821
+SAPU Los Volcanes|30867
+SAPU Lucas Sierra|24376
+SAPU Luis Chavarría|52817
+SAPU Machalí|33384
+SAPU Maipú|40987
+SAPU María Pinto|21734
+SAPU Marcela Jaques Vargas                                                      |12823
+SAPU Marcelo Mena|16046
+SAPU Marco Antonio Carvajal Moreno|34575
+SAPU Maule|32541
+SAPU Miraflores|110662
+SAPU Nº 1 Rodrigo Rojas Denegri|74701
+SAPU Nº 2 Irene Frei de Cid|34878
+SAPU Niebla|9729
+SAPU Nororiente|15391
+SAPU Norponiente|14761
+SAPU Norte de Antofagasta|27499
+SAPU Nueva Aurora|41055
+SAPU Nuevo Horizonte|17186
+SAPU Oriente de San Fernando|18764
+SAPU Oscar Bonilla|23637
+SAPU Pablo de Rokha|26026
+SAPU Pablo Neruda|17641
+SAPU Padre Esteban Gumucio|25227
+SAPU Padre Hurtado|66843
+SAPU Padre Joan Alsina|24461
+SAPU Padre Las Casas|17743
+SAPU Padre Vicente Irarrázabal|27459
+SAPU Paillaco|2381
+SAPU Paillihue|14656
+SAPU Paine|32076
+SAPU Paipote|46929
+SAPU PAPUDO|431
+SAPU Paulina Avendaño Pereda|19603
+SAPU Peñaflor|38066
+SAPU Pedro Aguirre Cerda|20939
+SAPU Pitrufquén|17382
+SAPU Placeres|22630
+SAPU Placilla                                                                                       |24562
+SAPU Poetisa Gabriela Mistral                                                                       |25068
+SAPU Pompeya|20637
+SAPU Presidente Salvador Allende Gossens                                        |25941
+SAPU PUCHUNCAVÍ|3631
+SAPU Pudahuel Poniente|23028
+SAPU Pueblo Nuevo|12917
+SAPU Quebrada Verde|30243
+SAPU Quillota|0
+SAPU Río Bueno|12142
+SAPU Raúl Brañes F.|37166
+SAPU Raúl Cuevas (Ex-San Bernardo)|31030
+SAPU Rahue Alto                                                                                     |28613
+SAPU Ranco|11872
+SAPU Reñaca Alto|25211
+SAPU Reina Isabel II|18438
+SAPU Rosario|9003
+SAPU Rosita Renard|13861
+SAPU San Felipe|24708
+SAPU San Gerónimo|50966
+SAPU San José de Chuchunco|32787
+SAPU San Juan                                                                                       |21706
+SAPU San Luis|38190
+SAPU San Pedro|11964
+SAPU San Rafael|24493
+SAPU San Ramón|27344
+SAPU Santa Amalia|24179
+SAPU Santa Anita|17545
+SAPU Santa Cecilia|22206
+SAPU Santa Julia|27084
+SAPU Santa Laura|24006
+SAPU Santa Rosa|11820
+SAPU Santiago de Nueva Extremadura|58205
+SAPU Santo Tomás|20300
+SAPU Sor Teresa de Los Andes|27178
+SAPU SUR|11849
+SAPU Talcahuano Sur|27554
+SAPU Trinidad|33227
+SAPU Valdivieso|20587
+SAPU Valentín Letelier|15652
+SAPU Ventanas|4317
+SAPU Villa Alegre|11519
+SAPU Villa O"Higgins|41900
+SAPU Villarica|19235
+SAPU Violeta Parra|24569
+SAPU Yobilo|17733
+SAPU  Dr. Johow (Zapallar)|3373
+SAPU  Manuel Lucero (Olmué)|6448
+SAR Aguas Negras|57055
+SAR Alemania|73331
+SAR Alerce|49579
+SAR Ancud|17886
+SAR Barrios Bajos|60857
+SAR Bicentenario|39335
+SAR Boca Sur|35447
+SAR Bombero Garrido|67659
+SAR Cabrero|44031
+SAR Carlos Pinto Fierro|33405
+SAR Carol Urzúa|40924
+SAR Castro|31503
+SAR Centenario|26792
+SAR Chiguayante|41952
+SAR Colina|71126
+SAR Concón|56506
+SAR Conchalí|43353
+SAR Constitución|31210
+SAR Conun Huenu|49275
+SAR Coviefi|22500
+SAR Dr. Alberto Reyes|35516
+SAR Dr. Amador Neghme R.|40405
+SAR Dr. Juan Cartes Arias|20171
+SAR Dr. Juan Damianovic|46304
+SAR Dr. Juan Saavedra Macaya|41636
+SAR Dr. Raúl Yazigi|44677
+SAR Dr. Rienzi Valencia|43619
+SAR Dra. Michelle Bachelet Jeria|39345
+SAR Emilio Schaffhauser|33572
+SAR Enfermera Sofía Pincheira|44681
+SAR Enrique Dintrans|57410
+SAR Enrique Molina|30302
+SAR Entre Ríos|51953
+SAR EU Iris Véliz Hume|46908
+SAR Eugenia Muñoz Dalmatín|43234
+SAR Haydee Lopez|29323
+SAR Hualpencillo|65477
+SAR Juan de Dios de Linares|45085
+SAR Julio Acuña Pinzón|47695
+SAR La Bandera|40156
+SAR La Estrella|67492
+SAR La Florida|77570
+SAR La Pincoya|44415
+SAR La Tortuga|50160
+SAR La Unión|37633
+SAR Labranza|45458
+SAR Las Américas|57744
+SAR Lautaro|27225
+SAR Los Álamos|40198
+SAR Los Cerros|46934
+SAR María Latife|47959
+SAR Marcos Macuada|36463
+SAR Miraflores|41688
+SAR Monte Patria|13942
+SAR Nestor Fernández Thomas|20618
+SAR Norte|42907
+SAR Oriente María Eugenia Torres|44868
+SAR Oriente|56133
+SAR Padre Manuel Villaseca|54023
+SAR Panguipulli|17820
+SAR Parral|45919
+SAR Pedro de Valdivia|36722
+SAR Penco|39797
+SAR Plan de Valparaíso|50836
+SAR Pozo Almonte|27231
+SAR Puerto Varas|51137
+SAR Quillota|25848
+SAR Raúl Silva Henríquez|32280
+SAR Recoleta|54490
+SAR Renca|79436
+SAR Rosario Corvalán ? Caldera|40531
+SAR San Clemente|78163
+SAR San Miguel|54561
+SAR San Pedro|36946
+SAR San Vicente de Tagua Tagua|43293
+SAR San Vicente|50528
+SAR Santa Cruz|42245
+SAR Sur de Iquique|45729
+SAR Tierras Blancas|45296
+SAR Tucapel|36095
+SAR Víctor Manuel Fernández|50325
+SAR Victoria|27755
+SAR Villa Alegre|41052
+SAR Violeta Parra|83257
+SUR Ñipas|2087
+SUR Ñiquén|2080
+SUR Alto del Carmen|999
+SUR Alto Jahuel|707
+SUR Antuco|2348
+SUR Bahía Mansa|1245
+SUR Baquedano|5995
+SUR Batuco|22003
+SUR Calle Larga|3977
+SUR Camiña|904
+SUR Canteras Villa Mercedes|0
+SUR Carampangue|178
+SUR Cariquima|1178
+SUR Catemu|4117
+SUR Chépica|21418
+SUR Chacao|2718
+SUR Chanavayita|2267
+SUR Chonchi|18026
+SUR Choshuenco|28
+SUR Coñaripe|7610
+SUR Cobquecura|2434
+SUR Codegua|21516
+SUR Colbun|36184
+SUR Colchane|5100
+SUR Coltauco|17059
+SUR Curanipe|3819
+SUR Curarrehue|7208
+SUR Dalcahue|10416
+SUR de Malloa|11847
+SUR Dichato|8468
+SUR Diego de Almagro|1097
+SUR Doñihue|21052
+SUR Dr. David Benavente de Ninhue|423
+SUR Dr. Jorge Ahumada Lemus|3722
+SUR Dr. Raúl Moya|782
+SUR El Álamo|0
+SUR El Aromo|2180
+SUR El Colorado|0
+SUR El Quisco|27371
+SUR El Tabo|17769
+SUR Empedrado|6394
+SUR Freirina|9790
+SUR Gultro|3931
+SUR HIJUELAS|4871
+SUR Huertos Familiares|4931
+SUR Iloca|6643
+SUR Isabel Jiménez|7912
+SUR Isla de Maipo|29641
+SUR Juan Fernández|424
+SUR La Estrella|5812
+SUR La Higuera|1014
+SUR La Huerta de Hualañé|2260
+SUR Laguna Verde|4843
+SUR Laraquete|1747
+SUR Las Cabras|26999
+SUR LAS PARCELAS|3571
+SUR LAS VENTANAS|14078
+SUR Lican Ray|0
+SUR Lontue|22307
+SUR Los Bajos de San Agustín|11228
+SUR Los Niches|8085
+SUR Máfil|12932
+SUR Maipo|514
+SUR Malalhue|4064
+SUR María Elena|10966
+SUR Mariquina|9109
+SUR Marta Estevez - Retiro|12076
+SUR Mercedes|4477
+SUR Michelle Chandía Alarcón|23911
+SUR Monteaguila|18379
+SUR Morza|12
+SUR Navidad|16566
+SUR Negrete|40
+SUR Neltume|418
+SUR NOGALES|5811
+SUR Olivar|10360
+SUR Panimavida|26648
+SUR PAPUDO|6308
+SUR Paredones|9316
+SUR Pelarco|7439
+SUR Pemuco|4065
+SUR Pencahue|16999
+SUR Peralillo|10334
+SUR Peumo|0
+SUR Pica|12476
+SUR Pichasca|2101
+SUR Pinto|7385
+SUR Placilla|15585
+SUR Portezuelo|1232
+SUR Puaucho|913
+SUR PUCHUNCAVÍ|15234
+SUR Punitaqui|8612
+SUR Puqueldón|5139
+SUR Putre|846
+SUR Putu|618
+SUR Quemchi|6194
+SUR Quillón|13727
+SUR Quilleco|7
+SUR Quiriquina|2728
+SUR Río Claro|26664
+SUR Ralco|770
+SUR Rauco|9549
+SUR Requínoa|28370
+SUR Romeral|22323
+SUR Sagrada Familia|24788
+SUR San Fabián|1143
+SUR San Francisco de Mostazal|15312
+SUR San Ignacio|4261
+SUR San Nicolás|4133
+SUR San Pablo|10318
+SUR San Pedro Atacama|13298
+SUR San Pedro|20110
+SUR San Rafael|5040
+SUR San Rosendo|955
+SUR Santa Fe|6455
+SUR Santa Olga|760
+SUR Sarmiento|7254
+SUR Sierra Gorda|3799
+SUR Socaire|494
+SUR Tarapacá|1661
+SUR Tierra Amarilla|25861
+SUR Tongoy|466
+SUR Treguaco|690
+SUR Tubul|116
+SUR Tucapel|3050
+SUR Vara Gruesa|2388
+SUR Vichuquén|362
+SUR Villa Alhué|4136
+SUR Villa Prat|4490
+SUR Yerbas Buenas|23658
+SUR  Dr. Johow (Zapallar)|8464
+SUR  Manuel Lucero (Olmué)|10401
